@@ -1,0 +1,11 @@
+/**
+ * Suma argumentos en linea de comandos
+ *
+ * @module      :: Main app
+ * @description	:: Sumatoria de Argumentos.
+ * @author      :: Kevin Blanco <mail@kevinblanco.io>
+ *
+ */
+
+
+console.log( process.argv.length );

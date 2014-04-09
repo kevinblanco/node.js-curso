@@ -1,7 +1,7 @@
-Curso Node.js :  ORIGAMI
+Curso Node.js : Clase #1
 =============
 
-Este repositorio contiene los ejemplos, practicas y tareas para el curso de Node.js en el TEC.
+Este repositorio contiene los ejemplos, practicas y tareas para la **clase #1** de el curso de Node.js en el TEC.
 
 -------
 
